@@ -65,6 +65,7 @@ Objective: Investigate interaction between thermal effects and mechanical respon
   ---
 
 🧠 Philosophy
+
 "The only failure is not to try"
  ---
 
