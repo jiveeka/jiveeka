@@ -15,31 +15,30 @@ I enjoy exploring engineering systems through mathematical modeling, coding, and
 
 🔬 Research & Technical Interests
 
-- Finite Element Method (FEM) and Computational Solid Mechanics
-- Structural Dynamics, Vibrations and Multiphysics Simulation
-- Thermal Sciences and Thermodynamic Modelling
-- Biomechanics and AI Intelligent Autonomous Health Systems
----
+* **Computational Mechanics (FEM)** — Simulation-driven structural analysis using ANSYS Mechanical
+* **Multiphysics & Structural Dynamics** — Vibrations, thermo-structural and CFD–FEM coupling
+* **Thermal Sciences & CFD** — Heat transfer and cooling system optimization
+* **Biomechanics & Intelligent Systems** — ML (scikit-learn) with embedded prototyping for health-tech applications
 
 🚧 Projects (Under Development)
 
-### 🤖 Self-Optimizing Robotic Arm
+🤖 Self-Optimizing Robotic Arm 
 
-Designing a 3-DOF robotic arm in SolidWorks and analyzing structural behavior using ANSYS Mechanical. A dataset from simulations is used to train ML models in Python (via scikit-learn) to predict stress and optimize design parameters. A physical prototype is built using Arduino Uno.
+Developing a 3-DOF robotic arm with integrated structural (FEM) and airflow/thermal (CFD) analysis using ANSYS Mechanical.
+Building ML models in Python using scikit-learn to predict stress–temperature behavior and enable design optimization.
+Prototyping an Arduino-based system for experimental validation of thermo-structural performance.
 
----
+🦿 Smart Prosthetic Knee Joint
 
-### 🦿 Smart Prosthetic Knee Joint
+Designing a biomechanical prosthetic knee with coupled FEM-based stress analysis and CFD-driven thermal comfort evaluation in ANSYS Mechanical.
+Developing ML models using scikit-learn for stress prediction and gait-informed optimization.
+Building a servo-actuated prototype with sensor integration for real-time motion and thermal analysis.
 
-Developing a simplified prosthetic knee with biomechanical modeling and FEM analysis in ANSYS Mechanical. ML models in Python are used for stress prediction and gait optimization. Prototype includes sensors and servo-based control using Arduino Uno.
+🌡️ Thermal-Aware Cooling Robot
 
----
-
-### 🌡️ Thermal-Aware Cooling Robot
-
-Designing a heat dissipation system in SolidWorks and performing thermal/CFD analysis in ANSYS Mechanical. ML models in Python predict temperature distribution and optimize cooling. A mobile robot with temperature sensors and fan control is implemented using Arduino Uno.
-
----
+Engineering a robotic system with CFD-based internal airflow optimization and thermal analysis using ANSYS Mechanical.
+Training ML models in Python with scikit-learn to predict temperature distribution and optimize cooling strategies.
+Developing an Arduino-based prototype with real-time sensing and adaptive cooling control.
 
 🎓 Core Coursework
 
