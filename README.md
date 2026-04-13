@@ -20,6 +20,9 @@ I enjoy exploring engineering systems through mathematical modeling, coding, and
 * **Thermal Sciences & CFD** — Heat transfer and cooling system optimization
 * **Biomechanics & Intelligent Systems** — ML (scikit-learn) with embedded prototyping for health-tech applications
 
+
+---
+
 🚧 Projects (Under Development)
 
 🤖 Self-Optimizing Robotic Arm 
@@ -40,6 +43,9 @@ Engineering a robotic system with CFD-based internal airflow optimization and th
 Training ML models in Python with scikit-learn to predict temperature distribution and optimize cooling strategies.
 Developing an Arduino-based prototype with real-time sensing and adaptive cooling control.
 
+
+---
+
 🎓 Core Coursework
 
 - Strength of Materials
@@ -50,6 +56,7 @@ Developing an Arduino-based prototype with real-time sensing and adaptive coolin
 - Engineering Mathematics
 - Theory of Machines
 
+
 ---
 
 🎯 Academic Goals
@@ -58,6 +65,7 @@ Developing an Arduino-based prototype with real-time sensing and adaptive coolin
 - Explore structurally and thermally coupled engineering problems
 - Contribute to research-oriented engineering projects
 - Prepare for advanced studies in computational mechanics
+
 
   ---
 
